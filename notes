@@ -1,0 +1,21 @@
+    //dot pattern
+        //for(x=0;x<100; x=x+20) {
+        // for(y=0; y=100; y=y+20) {
+        // {ellipse(i,10,10)
+
+    
+  //transform
+  //ellipse(mouseX, mouseY, 10) //draw the shapes)
+  
+  //rect(0,155,width,height)
+  //rotate starts from coords
+  //if(mouseIsPressed) {
+    //(mouseX,mouseY, 10)}
+
+    // put nostroke before shapes if perma stroke
+
+    //use curly braces on loop, 
+    //contents of it (parentheses is the subtext)
+
+    //variable++ same as variable = variable + 1
+    //use let to intialize variablees 
